@@ -14,7 +14,7 @@ Public Class frmdangnhap
                 frmmenu.Show()
                 Me.Hide()
             Else
-                MessageBox.Show("Tài Khoản Không Đúng Xin Vui Lòng Kiểm Tra Lại")
+                MessageBox.Show("Kiểm Tra Lại")
             End If
         Catch ex As Exception
         End Try
